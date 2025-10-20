@@ -3,4 +3,4 @@
 
 most of my projects are private repos, but i'll try to publish some as soon as i'm done with them
 
-meanwhile you can check my [website](https://yourwebsite.com)
+meanwhile you can check my [website](https://rknastenka.com)
