@@ -3,4 +3,4 @@
 
 Most of my projects are solutions to problems I’ve personally encountered, or yk just work!
 
-meanwhile you can check my [website](https://rknastenka.com)
+you can check my [website](https://rknastenka.com) if you wanna know more.
