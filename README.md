@@ -4,9 +4,7 @@
 
   <p>
     Most of my projects are solutions to problems I’ve personally encountered, or yk just work!
-  </p>
-
-  <p>
+  </br>
     Check my <a href="https://rknastenka.com">website</a> if you wanna know more.
   </p>
 
