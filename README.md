@@ -1,6 +1,13 @@
+<div align="center">
 
-#### Hey, it's bana, you can call me ini, nastenka or wtv nickname you prefer :)
+  <h3>Hey, it's Bana. you can call me Bani, ini, Nastenka or wtv nickname you prefer :)</h3>
 
-Most of my projects are solutions to problems I’ve personally encountered, or yk just work!
+  <p>
+    Most of my projects are solutions to problems I’ve personally encountered, or yk just work!
+  </p>
 
-you can check my [website](https://rknastenka.com) if you wanna know more.
+  <p>
+    Check my <a href="https://rknastenka.com">website</a> if you wanna know more.
+  </p>
+
+</div>
