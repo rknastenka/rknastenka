@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
   <h3>Hey, it's Bana. you can call me ini, Nastenka or wtv nickname you prefer :)</h3>
 
